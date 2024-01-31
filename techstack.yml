@@ -1,0 +1,86 @@
+repo_name: zinzindev/CC14-NODE-EXPRESS-lab-todo-list
+report_id: c0e236ac986b42f013ccfd3c4136ae46
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:49:42+00:00'
+requested_by: zinzindev
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: zinzindev
+  last_updated_on: 2023-07-27 13:33:20.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: zinzindev
+  last_updated_on: 2023-07-26 14:25:30.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: zinzindev
+  last_updated_on: 2023-07-27 13:33:20.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/zinzindev/CC14-NODE-EXPRESS-lab-todo-list/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: zinzindev
+  last_updated_on: 2023-07-27 13:33:20.000000000 Z
